@@ -1,0 +1,8 @@
+1)COLOR PALLETE : colorhunt.co
+                https://colorhunt.co/palette/fdfbee57b4ba015551fe4f2d
+
+2)COLOR BLENDER : meyerweb.com/eric/tools/color-blend/
+
+3)FONTS : fonts.google.com
+
+4)LOCOMOTIVE : github.com/locomotivemtl/locomotive-scroll

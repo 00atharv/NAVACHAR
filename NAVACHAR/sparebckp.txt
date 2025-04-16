@@ -1,0 +1,42 @@
+#socials ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding:20px;
+}
+#socials a{
+    list-style: none;
+    text-decoration:none ;
+    color:white;
+}
+background-color: #96c9f4;
+
+.pp{
+    margin-left:6%;
+    border:solid black;
+    border-radius:20px;
+    width:71%;
+    padding:30px;
+    background-color: #eff5fa;
+    background-image: url(image-bwq547my.png)
+}
+
+.heading{
+    margin-left:8.5%;
+    padding-top:40px;
+    font-size: 42px;
+    font-family: 'bebas neue';
+}
+.heading7{
+    padding-top: 20px;
+    margin-left:8%;
+    font-size:90px;
+    font-family:'audiowide', sans-serif;
+    margin-bottom: -40px;
+}
+mark{
+    background-color:#96C9F4;
+}
+
+<h1 class="heading7">LOGO</h1>
+            <h1 class="heading">THIS IS A TAGLINE.</h1>
